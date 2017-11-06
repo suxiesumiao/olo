@@ -1,0 +1,77 @@
+.star {
+  display: inline-block;
+  width: 5rem;
+  height: 1rem;
+  background-size: 5rem 1rem;
+  background-repeat: no-repeat;
+}
+
+.star-s-1 {
+  background: -webkit-linear-gradient(left, #ffd700 10%, #eeeeee 0%);
+  background: -moz-linear-gradient(left, #ffd700 10%, #eeeeee 0%);
+  background: -o-linear-gradient(left, #ffd700 10%, #eeeeee 0%);
+  background: linear-gradient(left, #ffd700 10%, #eeeeee 0%);
+}
+
+.star-s-2 {
+  background: -webkit-linear-gradient(left, #ffd700 20%, #eeeeee 0%);
+  background: -moz-linear-gradient(left, #ffd700 20%, #eeeeee 0%);
+  background: -o-linear-gradient(left, #ffd700 20%, #eeeeee 0%);
+  background: linear-gradient(left, #ffd700 20%, #eeeeee 0%);
+}
+
+.star-s-3 {
+  background: -webkit-linear-gradient(left, #ffd700 30%, #eeeeee 0%);
+  background: -moz-linear-gradient(left, #ffd700 30%, #eeeeee 0%);
+  background: -o-linear-gradient(left, #ffd700 30%, #eeeeee 0%);
+  background: linear-gradient(left, #ffd700 30%, #eeeeee 0%);
+}
+
+.star-s-4 {
+  background: -webkit-linear-gradient(left, #ffd700 40%, #eeeeee 0%);
+  background: -moz-linear-gradient(left, #ffd700 40%, #eeeeee 0%);
+  background: -o-linear-gradient(left, #ffd700 40%, #eeeeee 0%);
+  background: linear-gradient(left, #ffd700 40%, #eeeeee 0%);
+}
+
+.star-s-5 {
+  background: -webkit-linear-gradient(left, #ffd700 50%, #eeeeee 0%);
+  background: -moz-linear-gradient(left, #ffd700 50%, #eeeeee 0%);
+  background: -o-linear-gradient(left, #ffd700 50%, #eeeeee 0%);
+  background: linear-gradient(left, #ffd700 50%, #eeeeee 0%);
+}
+
+.star-s-6 {
+  background: -webkit-linear-gradient(left, #ffd700 60%, #eeeeee 0%);
+  background: -moz-linear-gradient(left, #ffd700 60%, #eeeeee 0%);
+  background: -o-linear-gradient(left, #ffd700 60%, #eeeeee 0%);
+  background: linear-gradient(left, #ffd700 60%, #eeeeee 0%);
+}
+
+.star-s-7 {
+  background: -webkit-linear-gradient(left, #ffd700 70%, #eeeeee 0%);
+  background: -moz-linear-gradient(left, #ffd700 70%, #eeeeee 0%);
+  background: -o-linear-gradient(left, #ffd700 70%, #eeeeee 0%);
+  background: linear-gradient(left, #ffd700 70%, #eeeeee 0%);
+}
+
+.star-s-8 {
+  background: -webkit-linear-gradient(left, #ffd700 80%, #eeeeee 0%);
+  background: -moz-linear-gradient(left, #ffd700 80%, #eeeeee 0%);
+  background: -o-linear-gradient(left, #ffd700 80%, #eeeeee 0%);
+  background: linear-gradient(left, #ffd700 80%, #eeeeee 0%);
+}
+
+.star-s-9 {
+  background: -webkit-linear-gradient(left, #ffd700 90%, #eeeeee 0%);
+  background: -moz-linear-gradient(left, #ffd700 90%, #eeeeee 0%);
+  background: -o-linear-gradient(left, #ffd700 90%, #eeeeee 0%);
+  background: linear-gradient(left, #ffd700 90%, #eeeeee 0%);
+}
+
+.star-s-10 {
+  background: -webkit-linear-gradient(left, #ffd700 100%, #eeeeee 0%);
+  background: -moz-linear-gradient(left, #ffd700 100%, #eeeeee 0%);
+  background: -o-linear-gradient(left, #ffd700 100%, #eeeeee 0%);
+  background: linear-gradient(left, #ffd700 100%, #eeeeee 0%);
+}

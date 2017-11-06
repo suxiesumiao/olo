@@ -1,0 +1,82 @@
+{
+    "activities": [
+        {
+            "attribute": "17.0",
+            "description": "新用户下单立减17.0元(不与其它活动同享)",
+            "icon_color": "70bc46",
+            "icon_name": "新",
+            "id": 23729629,
+            "is_exclusive_with_food_activity": true,
+            "name": "新用户立减(不与其他活动共享)",
+            "tips": "新用户下单立减17.0元(不与其它活动同享)",
+            "type": 103
+        },
+        {
+            "attribute": "{\"80\": {\"1\": 15, \"0\": 0}, \"50\": {\"1\": 8, \"0\": 0}}",
+            "description": "满50减8，满80减15",
+            "icon_color": "f07373",
+            "icon_name": "减",
+            "id": 25468086,
+            "is_exclusive_with_food_activity": true,
+            "name": "满减优惠",
+            "tips": "满50减8，满80减15",
+            "type": 102
+        }
+    ],
+    "address": "北京市昌平区回龙观镇黄土北店村南时代广场东南角一、二层",
+    "description": "KFC",
+    "distance": 951,
+    "float_delivery_fee": 9,
+    "float_minimum_order_amount": 0,
+    "id": 257561,
+    "image_path": "7d348a777a6b444dc317cc24d101220cjpeg",
+    "is_new": false,
+    "is_premium": true,
+    "is_stock_empty": 0,
+    "latitude": 40.0799279,
+    "license": {
+        "business_license_image": "63cc0c5ece990b5bcd71f36126932924jpeg",
+        "catering_service_license_image": "7d1653e7797c539e22ab60846909236fjpeg",
+        "service_license_business_scope": "",
+        "service_license_register_authority": "",
+        "service_license_register_date": "1970-01-01"
+    },
+    "longitude": 116.3340555,
+    "max_applied_quantity_per_order": 1,
+    "name": "肯德基宅急送(育知东店）",
+    "next_business_time": "",
+    "only_use_poi": false,
+    "opening_hours": [
+        "10:00/22:00"
+    ],
+    "order_lead_time": 40,
+    "phone": "4009208801",
+    "piecewise_agent_fee": {
+        "description": "配送费¥9",
+        "extra_fee": 0,
+        "is_extra": false,
+        "rules": [
+            {
+                "fee": 9,
+                "price": 0
+            }
+        ],
+        "tips": "配送费¥9"
+    },
+    "promotion_info": "本餐厅不使用饿了么配送，由肯德基宅急送官方品牌配送，会员用户无法享受免配送费服务",
+    "rating": 4.7,
+    "rating_count": 74,
+    "recent_order_num": 566,
+    "regular_customer_count": 0,
+    "status": 1,
+    "supports": [
+        {
+            "description": "该商家支持开发票，请在下单时填写好发票抬头",
+            "icon_color": "999999",
+            "icon_name": "票",
+            "id": 4,
+            "name": "开发票"
+        }
+    ],
+    "type": 0
+}

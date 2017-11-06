@@ -1,0 +1,28 @@
+/*各种优惠活动的颜色
+在 restaurantsinfo
+   imask 中使用*/
+.c-spec{
+  text-align: center;
+  color: #fff;
+  padding: 0 .1rem;
+  font-size: .8rem;
+  border-radius: .1rem;
+}
+.c-70bc46{
+  background-color: #70bc46;
+}
+.c-3cc791{
+  background-color: #3cc791;
+}
+.c-f07373{
+  background-color: #f07373;
+}
+.c-999999{
+  background-color: #999;
+}
+.c-f1884f{
+  background-color: #f1884f;
+}
+.c-57a9ff{
+  background-color: #57a9ff;
+}

@@ -1,0 +1,15 @@
+# components ---> 组件
+- msite ---> 外卖
+    - Msite
+- discover ---> 发现
+    - Discover
+- order ---> 订单
+    - Order
+- profile ---> 个人
+    - Profile
+- shop ---> 店家
+    - Shop
+- common ---> 公共组件
+    - mainfooter ---> 每个页面底部
+        - images
+        - mainfooter 
